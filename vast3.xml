@@ -23,7 +23,7 @@
                         </VideoClicks>
 
                         <MediaFiles>
-                                                        <MediaFile codec="H.264" width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6901" height="720" delivery="progressive" bitrate="2725" ><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_2500k_BTN.mp4]]></MediaFile>
+                                                        <MediaFile codec="H.264" width="1280" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6901" height="720" delivery="progressive" bitrate="2725" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_2500k_BTN.mp4]]></MediaFile>
 
                         </MediaFiles>
 
