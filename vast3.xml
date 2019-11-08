@@ -30,6 +30,13 @@
                             <MediaFile width="402" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6910" height="226" delivery="progressive" bitrate="296" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_150k_BTN.mp4]]></MediaFile>
                             <MediaFile width="402" type="video/mp4" scalable="1" maintainAspectRatio="1" id="6910" height="226" delivery="progressive" bitrate="296" apiFramework="VAST"><![CDATA[https://ctsr525678-ads-theplatform.akamaized.net/AdStor_-_Phase_1_Catalog_-_QA_2/58/337/FXPI7002H_1568140216508_150k_BTN.mp4]]></MediaFile>
                         </MediaFiles>
+                        
+                        <VideoClicks>
+                            <ClickTracking id="blog">
+                                <![CDATA[https://iabtechlab.com]]>
+                            </ClickTracking>
+                            <CustomClick>http://iabtechlab.com/example</CustomClick>
+                        </VideoClicks>
                     </Linear>
                 </Creative>
             </Creatives>
