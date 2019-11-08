@@ -3,6 +3,7 @@
     <Ad id="FXPI7002H">
         <InLine>
             <AdSystem version="4.0">Adstor</AdSystem>
+            <Error><![CDATA[https://example.com/error]]></Error>
             <AdTitle><![CDATA[The Apollo: Missions to the Moon Longform]]></AdTitle>
             <Creatives>
                 <Creative sequence="1" id="166872">
