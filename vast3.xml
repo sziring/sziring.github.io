@@ -25,6 +25,10 @@
                         </MediaFiles>
                         
                         <VideoClicks>
+                            <ClickThrough id="blog">
+                                <![CDATA[https://iabtechlab.com]]>
+                            </ClickThrough>
+                            
                             <ClickTracking id="blog">
                                 <![CDATA[https://iabtechlab.com]]>
                             </ClickTracking>
