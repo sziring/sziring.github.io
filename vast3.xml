@@ -32,7 +32,6 @@
                             <ClickTracking id="blog">
                                 <![CDATA[https://iabtechlab.com]]>
                             </ClickTracking>
-                            <CustomClick>http://iabtechlab.com/example</CustomClick>
                         </VideoClicks>
                     </Linear>
                 </Creative>
